@@ -1,1 +1,1 @@
-Tas for 0x02-MINIMUM-OPERATIONS
+Task for 0x02-Minimum-Operations
